@@ -1,0 +1,11 @@
+<resources>
+
+    <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
+
+    <dimen name="fab_margin">24dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+</resources>
+
+
